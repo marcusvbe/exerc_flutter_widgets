@@ -1,6 +1,6 @@
 # Exercícios Flutter Widgets
 
-Este projeto contém 5 exercícios implementados em Flutter, demonstrando o uso de diversos widgets e componentes da UI, desenvolvidos para a disciplina de Programação para Dispositivos Móveis II, ministrada pelo professor Carlos Feichas..
+Este projeto contém 5 exercícios implementados em Flutter, demonstrando o uso de diversos widgets e componentes da UI, desenvolvidos para a disciplina de Programação para Dispositivos Móveis II, ministrada pelo professor Carlos Feichas.
 
 ## Sobre o Projeto
 
