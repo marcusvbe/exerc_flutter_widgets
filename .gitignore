@@ -1,0 +1,24 @@
+# Adicionar ao .gitignore na raiz do projeto
+# Arquivos e pastas gerados pelo Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+android/.gradle/
+**/doc/api/
+
+# Arquivos específicos do IDE
+**/.idea/
+**/.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de sistema
+.DS_Store
+.env.local
+Thumbs.db
